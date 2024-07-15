@@ -1,0 +1,24 @@
+E:\Courses\Course 14\Projects\Calculator\bin\Debug\Calculator.exe.config
+E:\Courses\Course 14\Projects\Calculator\bin\Debug\Calculator.exe
+E:\Courses\Course 14\Projects\Calculator\bin\Debug\Calculator.pdb
+E:\Courses\Course 14\Projects\Calculator\bin\Debug\Guna.UI2.dll
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.csproj.Up2Date
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.exe
+E:\Courses\Course 14\Projects\Calculator\obj\Debug\Calculator.pdb
+E:\Courses\Course 14\Projects\Calculator - Copy\bin\Debug\Calculator.exe.config
+E:\Courses\Course 14\Projects\Calculator - Copy\bin\Debug\Calculator.exe
+E:\Courses\Course 14\Projects\Calculator - Copy\bin\Debug\Calculator.pdb
+E:\Courses\Course 14\Projects\Calculator - Copy\bin\Debug\Guna.UI2.dll
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.Calculator.resources
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.Properties.Resources.resources
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.csproj.Up2Date
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.exe
+E:\Courses\Course 14\Projects\Calculator - Copy\obj\Debug\Calculator.pdb
